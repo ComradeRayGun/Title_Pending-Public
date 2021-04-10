@@ -9,5 +9,7 @@ To create a bug report/suggestion:
 3. Use a template than fill out all relevant information.
 ## Additional Help
 If you need help, please join the discord here: 
+
 [https://discord.gg/XgcgUHJ](https://discord.gg/XgcgUHJ "https://discord.gg/XgcgUHJ")
+
 Please don't post your bugs there.
